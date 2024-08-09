@@ -23,9 +23,7 @@ Password: Test@12345
 
 Credential for user panel : 
 
-Username: johndoe12@gamil.com
+Username: ganesh@gamil.com
 Password : Test@12345
 
-For more details visit this url https://phpgurukul.com/user-registration-login-and-user-management-system-with-admin-panel/
-
-You can also drop a mail at phpgurukulteam@gmail.com
+You can also drop a mail at rahulmirji444@gmail.com
